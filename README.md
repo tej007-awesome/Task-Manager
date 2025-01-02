@@ -83,3 +83,6 @@ npm start
 - Task Categorization: Add tags or categories to group tasks.
 - Dark Mode: Include a dark theme for better usability at night.
 - Due Dates: Allow users to set deadlines for tasks.
+
+<img width="859" alt="Screenshot 2025-01-02 at 10 24 08 AM" src="https://github.com/user-attachments/assets/de7295a7-1302-465b-8df6-5e7f95877006" />
+
